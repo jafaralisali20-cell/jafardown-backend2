@@ -1,0 +1,4 @@
+# Railway uses Docker. This file configures the service.
+# No extra config needed – Railway reads the Dockerfile automatically.
+# Environment variables to set in Railway Dashboard:
+# PORT=3000 (Railway injects this automatically)
